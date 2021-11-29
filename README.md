@@ -1,24 +1,36 @@
-# README
+# <ビギナーズ>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+健康的なレシピをユーザ同士で作り上げるレシピサイト
 
-Things you may want to cover:
+### サイトテーマ
+レシピサイト
 
-* Ruby version
+### テーマを選んだ理由
+コロナ禍や、それによる運動不足で人々の健康志向が強まったことを受けて
+栄養素など表示できるレシピサイトを作成しようと考えた。
+ターゲットユーザは料理経験のない独身者な為、
+レシピ手順にコメントを残せるようにする。
 
-* System dependencies
+### ターゲットユーザ
+料理経験のない独身者
 
-* Configuration
+### 主な利用シーン
+カロリーや血糖値を気にしている方の自炊を手伝う
 
-* Database creation
+## 設計書
+<...>
 
-* Database initialization
+## チャレンジ要素一覧
+<https://docs.google.com/spreadsheets/d/1_6HKddfmA_PLtHVcc3ZOqMLOohppMm3EoVDN8Iakp8o/edit#gid=0>
 
-* How to run the test suite
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 使用素材
+- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
+- 使用しない場合は、使用素材の項目をREADMEから削除してください。
