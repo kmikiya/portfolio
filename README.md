@@ -19,7 +19,7 @@
 カロリーや血糖値を気にしている方の自炊を手伝う
 
 ## 設計書
-<...>
+<...>^^
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1_6HKddfmA_PLtHVcc3ZOqMLOohppMm3EoVDN8Iakp8o/edit#gid=0>
